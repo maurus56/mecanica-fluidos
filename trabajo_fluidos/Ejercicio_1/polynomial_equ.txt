@@ -1,0 +1,6 @@
+Polynomial equation generated with 20 values around the inflection point:
+           3          2
+-0.002609 x + 0.7061 x - 19.59 x - 3717
+Error(f_inflec): 0.023951 (over the 20 values selected)
+Bisection: 132.063231
+Altura a la que abre: 0.834975
