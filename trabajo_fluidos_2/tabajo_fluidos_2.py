@@ -73,7 +73,7 @@ line_A = 'A' + line_A + '\n'
 line_A_a = 'A/A*' + line_A_a + '\n'
 line_Msub = 'M(sub)' + line_Msub + '\n'
 line_Msup = 'M(sup)' + line_Msup + '\n'
-line_Psub = 'P(sup)' + line_Psub + '\n'
+line_Psub = 'P(sub)' + line_Psub + '\n'
 line_Psup = 'P(sup)' + line_Psup + '\n'
 
 # find current file path
